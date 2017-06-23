@@ -1,6 +1,6 @@
 # Git 基本
-* ## 安裝完Git
-* ## 註冊Github及新增repo
+* ## [安裝完Git](https://github.com/xyz607xx/git_subject/blob/master/git%E5%AE%89%E8%A3%9D.md)
+* ## [註冊Github及新增repo](https://github.com/xyz607xx/git_subject/blob/master/github%E8%A8%BB%E5%86%8A.md)
 ## 做好上述這些事情之後，就可以利用git push code到github上，若環境還沒設好請先設定環境，可以參考上面的連結。
 # 開啟cmd
 ![開啟cmd](images/cmd-1.jpg)
